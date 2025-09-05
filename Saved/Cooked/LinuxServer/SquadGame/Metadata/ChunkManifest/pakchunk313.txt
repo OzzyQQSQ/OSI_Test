@@ -1,0 +1,2 @@
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\TLF\OSI_TLF
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\TLF\OSI_TLF_Table

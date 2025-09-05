@@ -1,0 +1,2 @@
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\BAF\OSI_BAF
+..\Squad\Plugins\Mods\OSI_Test\Saved\Cooked\Windows\SquadGame\Plugins\Mods\OSI_Test\Content\Settings\FactionSetup\BAF\OSI_BAF_Table
